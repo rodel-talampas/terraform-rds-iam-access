@@ -4,3 +4,6 @@
 **/terraform.tfstate
 **/terraform.tfstate.backup
 **/.terraform*
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
